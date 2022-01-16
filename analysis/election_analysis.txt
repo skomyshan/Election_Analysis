@@ -1,0 +1,19 @@
+Counties in the election
+------------------------
+Araphoe
+Denver
+Jefferson
+
+# Total votes = 369,711
+
+# Candidate names = Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
+
+# Votes per Candidate
+    # Charles Casper Stockham: 85,213
+    # Diana DeGette: 272,892
+    # Raymon Anthony Doane: 11,606
+
+# Percentage of votes per Candidate
+    Charles Casper Stockham: received 23.04854332167558% of the vote.
+    Diana DeGette: received 73.81224794501652% of the vote.
+    Raymon Anthony Doane: received 3.1392087333079077% of the vote.

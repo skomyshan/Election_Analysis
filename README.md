@@ -29,8 +29,3 @@
 ######    Winner: Diana DeGette
 ######    Winning Vote Count: 272,892
 ######    Winning Percentage: 73.8%
-
-## Election Audit Summary
-###### If to repurpose the script by modifying the contents in order to propose a business plan, I would suggest the following:
-
-###### 1. 
